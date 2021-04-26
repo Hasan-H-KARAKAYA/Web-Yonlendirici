@@ -35,7 +35,7 @@ namespace Web_Yönlendirici
 
 		private void button4_Click(object sender, EventArgs e)
 		{
-			System.Diagnostics.Process.Start("www.discord.com.tr");
+			System.Diagnostics.Process.Start("www.discord.com");
 		}
 
 		private void button5_Click(object sender, EventArgs e)
